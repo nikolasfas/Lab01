@@ -105,7 +105,6 @@ def main():
             # print(f"Player: {p.nickname} - score: {p.punti}")
             riga = p.nickname + " - " + str(p.punti)+ "\n"
             f.write(riga)
-#non capisco
 
 
 
